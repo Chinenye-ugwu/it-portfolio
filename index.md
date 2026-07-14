@@ -1,20 +1,25 @@
 # Chinenye Edith Ugwu
 
-## IT Capstone Portfolio
+## IT497 Capstone Portfolio
 
-Welcome to my professional portfolio.
+Welcome to my IT Capstone Portfolio. This website documents my journey as an Information Technology student at Ensign College as I transition from a career in insurance into System Administration and Cloud Computing.
 
-I am an Information Technology student specializing in System Administration at Ensign College. This portfolio documents my technical projects, professional growth, spiritual progression, certifications, and career goals as I transition from the insurance industry into Information Technology.
+Throughout this portfolio, I share my spiritual growth, professional development, technical projects, certifications, and career goals. The portfolio will continue to grow throughout the IT497 Capstone course.
 
-### Portfolio Sections
+## Portfolio Contents
 
-- About Me
-- Professional Résumé
-- Technical Skills
-- Projects
-- Certifications
-- Faith and Professional Values
-- Career Goals
-- Contact
+- [Week 1 Portfolio](week1.md)
+- [Week 2 Portfolio](week2.md)
+- [Week 3 Portfolio](week3.md)
+- [Professional Résumé](resume.md)
+- [Technical Projects](projects.md)
+- [Certifications](certifications.md)
+- [Contact](contact.md)
 
-**Status:** This portfolio is currently under development as part of IT497 – IT Capstone.
+---
+
+**Program:** Bachelor of Science in Information Technology – System Administration
+
+**Institution:** Ensign College
+
+**Expected Graduation:** 2028
