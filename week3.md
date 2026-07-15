@@ -109,3 +109,18 @@ One practice that continually renews my faith is listening to Christian gospel m
 As I reflected on Elder David A. Bednar's teaching about intertwined strands, I realized that my spiritual principles and professional goals are not separate. My faith influences how I approach learning, solve problems, treat others, and make ethical decisions. Likewise, my experiences in Information Technology continually provide opportunities to practice patience, perseverance, humility, and integrity.
 
 This reflection reminded me that becoming a successful IT professional involves more than developing technical knowledge. It also involves becoming a person of integrity who serves others responsibly and treats people with dignity and respect. As I continue developing my technical skills, I hope to use them to build secure systems, support users, and make a positive difference through technology.
+
+
+---
+
+## Evidence Collected
+
+During Week 3, I added the following items to my IT497 Capstone Portfolio:
+
+- Three guiding principles for my Spiritual Progression Portfolio
+- Initial collection of scriptures and spiritual resources
+- Expanded Professional Growth Portfolio
+- Updated professional résumé
+- Featured technical projects
+- Ethical dilemma analysis based on professional experience
+- Personal reflection on spiritual and professional growth
