@@ -96,3 +96,16 @@ Reflecting on this experience helped me recognize that ethical decision-making e
 The ACM Code of Ethics reinforces these principles by encouraging computing professionals to avoid harm, respect privacy, maintain confidentiality, and act with integrity. These values are directly applicable to careers in System Administration and Cloud Computing, where professionals are entrusted with protecting sensitive information.
 
 This experience strengthened my commitment to building secure systems, following ethical practices, and earning the trust of the people and organizations I will serve throughout my IT career.
+
+
+---
+
+## Reflection
+
+Week 3 gave me the opportunity to reflect on how closely my spiritual life and professional development have become connected. As I considered my journey from the insurance industry into Information Technology, I recognized that every challenge has strengthened both my technical abilities and my faith.
+
+One practice that continually renews my faith is listening to Christian gospel music. These songs encourage me during difficult moments and remind me that God is present throughout every stage of my journey. I also find encouragement through the small Christian prayer group that I meet with virtually twice each week. Praying with other believers reminds me that growth is strengthened through faith, support, and community.
+
+As I reflected on Elder David A. Bednar's teaching about intertwined strands, I realized that my spiritual principles and professional goals are not separate. My faith influences how I approach learning, solve problems, treat others, and make ethical decisions. Likewise, my experiences in Information Technology continually provide opportunities to practice patience, perseverance, humility, and integrity.
+
+This reflection reminded me that becoming a successful IT professional involves more than developing technical knowledge. It also involves becoming a person of integrity who serves others responsibly and treats people with dignity and respect. As I continue developing my technical skills, I hope to use them to build secure systems, support users, and make a positive difference through technology.
