@@ -40,3 +40,21 @@ Although my previous career provided valuable leadership and communication skill
 Technology should always be used to benefit people. My experience in both insurance and Information Technology has reinforced the importance of honesty, confidentiality, and professional responsibility.
 
 Whether protecting sensitive information, supporting users, or maintaining secure systems, I want my work to reflect integrity, respect, and a genuine desire to serve others.
+
+
+---
+
+## Initial Spiritual Materials
+
+Throughout Week 3, I gathered scriptures, conference messages, and professional resources that support my guiding principles and continue to influence both my spiritual growth and professional development.
+
+| Resource | Contribution |
+|----------|--------------|
+| Proverbs 3:5–6 | Encourages trusting God during periods of change and uncertainty. |
+| James 1:5 | Reminds me to seek wisdom from God when learning and making decisions. |
+| 3 Nephi 13:19–22 | Helps me focus on eternal priorities while pursuing professional goals. |
+| Elder David A. Bednar – *Gather Together in One All Things in Christ* | Teaches that spiritual and professional growth become stronger when centered on Jesus Christ. |
+| ACM Code of Ethics | Reinforces honesty, integrity, privacy, and professional responsibility in Information Technology. |
+| *Jesus Christ: The Prince of Peace* | Reminds me that true peace comes from following the Savior and serving others with love and compassion. |
+
+These materials will continue to guide my decisions as I develop both my Spiritual Progression Portfolio and Professional Growth Portfolio throughout the remainder of my capstone journey.
