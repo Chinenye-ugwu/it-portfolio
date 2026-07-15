@@ -58,3 +58,28 @@ Throughout Week 3, I gathered scriptures, conference messages, and professional 
 | *Jesus Christ: The Prince of Peace* | Reminds me that true peace comes from following the Savior and serving others with love and compassion. |
 
 These materials will continue to guide my decisions as I develop both my Spiritual Progression Portfolio and Professional Growth Portfolio throughout the remainder of my capstone journey.
+
+
+---
+
+## Professional Growth Portfolio
+
+Week 3 marked the transition from planning my professional portfolio to developing its core content. During this week, I expanded my portfolio by refining my professional introduction, updating my résumé, documenting key technical projects, and connecting my technical achievements with the values that guide my career.
+
+My transition from more than ten years in the insurance industry into Information Technology has strengthened my appreciation for lifelong learning. The leadership, communication, customer service, and documentation skills I developed in my previous career continue to support my growth as I prepare for a career in System Administration.
+
+### Featured Projects
+
+Some of the projects that best demonstrate my technical development include:
+
+- **AWS Ubuntu File Server Deployment** – Configured an Ubuntu server in AWS, managed storage, permissions, and secure remote administration using SSH.
+
+- **Heritage Vault 2.0** – Designed a secure storage solution that emphasized data organization, access control, and information protection.
+
+- **Security Monitoring with Wazuh** – Built a security monitoring environment to strengthen my understanding of threat detection, system monitoring, and cybersecurity best practices.
+
+Each of these projects reinforced not only my technical knowledge but also the importance of integrity, careful planning, documentation, and protecting the people who depend on technology.
+
+### Career Goal
+
+My long-term goal is to begin my career as a **System Administrator** or **Cloud Support Engineer**, where I can continue learning, solve meaningful technical problems, and help organizations build secure, reliable, and efficient technology environments.
