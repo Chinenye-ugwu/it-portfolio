@@ -66,3 +66,45 @@ I have also developed a greater appreciation for serving others. Throughout my s
 **Professional Application**
 
 I am committed to continually developing my technical skills through professional certifications, hands-on experience, and ongoing education. At the same time, I want to use those skills to serve others with patience, professionalism, and a willingness to help.
+
+
+
+---
+
+## Professional Growth Portfolio
+
+My decision to transition into Information Technology represents one of the most significant milestones in my professional life. After spending more than ten years in the insurance industry, I chose to pursue a career that would allow me to combine problem-solving, continuous learning, and technology to serve others.
+
+Although I entered the System Administration program without a traditional IT background, my previous experience provided valuable transferable skills. Leadership, customer service, documentation, communication, and critical thinking have strengthened my ability to approach technical challenges with patience and professionalism.
+
+Throughout my studies at Ensign College, I have gained experience with:
+
+- Ubuntu Linux
+- Windows Server
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Networking fundamentals
+- Cybersecurity concepts
+- Identity and Access Management (IAM)
+- Technical documentation
+
+Every lab, project, and assignment has increased my confidence while reinforcing the importance of persistence, careful planning, and ethical responsibility.
+
+### Career Goal
+
+My long-term goal is to begin my career as a **System Administrator** or **Cloud Support professional**, where I can build secure, reliable, and efficient technology solutions while continuing to develop my technical expertise and serve others with integrity.
+
+### Transferable Skills
+
+My previous career strengthened several skills that directly support my transition into Information Technology:
+
+- Leadership
+- Communication
+- Customer Service
+- Documentation
+- Problem Solving
+- Teamwork
+- Time Management
+- Professional Ethics
+
+These experiences have prepared me to work effectively with both technology and people, allowing me to contribute positively to future organizations.
