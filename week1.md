@@ -157,3 +157,19 @@ Beginning the IT 497 Capstone has given me the opportunity to pause and reflect 
 As I continue learning Linux, Windows Server, Microsoft Azure, AWS, networking, and cybersecurity, I recognize that every challenge is helping me become a better problem solver. More importantly, I have learned that technical knowledge is most valuable when combined with integrity, humility, perseverance, and a desire to serve others.
 
 This first week reminded me that building a successful career is not only about acquiring technical skills but also about developing the character required to use those skills responsibly. I look forward to continuing this journey throughout the remainder of my capstone experience.
+
+
+
+---
+
+## Evidence Collected
+
+During Week 1, I gathered the following items as the foundation for my IT497 Capstone Portfolio:
+
+- Initial professional résumé
+- Career goals and SMART goals
+- Spiritual Growth Portfolio foundation
+- Professional Growth Portfolio foundation
+- Personal reflection on faith and career transition
+- Technical skills inventory
+- Initial GitHub Pages portfolio
