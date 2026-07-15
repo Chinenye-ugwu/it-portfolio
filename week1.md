@@ -145,3 +145,15 @@ Some of the projects I have completed include:
 - Networking Labs using Cisco Packet Tracer
 
 Each project has strengthened both my technical abilities and my confidence in solving real-world IT problems. More detailed descriptions of these projects are available in the **Projects** section of this portfolio.
+
+
+
+---
+
+## Reflection
+
+Beginning the IT 497 Capstone has given me the opportunity to pause and reflect on how much I have grown academically, professionally, and spiritually. Transitioning from more than ten years in the insurance industry into Information Technology has not always been easy, but it has been one of the most rewarding decisions I have made.
+
+As I continue learning Linux, Windows Server, Microsoft Azure, AWS, networking, and cybersecurity, I recognize that every challenge is helping me become a better problem solver. More importantly, I have learned that technical knowledge is most valuable when combined with integrity, humility, perseverance, and a desire to serve others.
+
+This first week reminded me that building a successful career is not only about acquiring technical skills but also about developing the character required to use those skills responsibly. I look forward to continuing this journey throughout the remainder of my capstone experience.
