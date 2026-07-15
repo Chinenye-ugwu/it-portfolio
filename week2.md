@@ -56,9 +56,24 @@ During Week 2, I continued developing:
 - Portfolio planning
 - Project documentation
 - Professional reflection
-- Evidence of technical growth
+- Evidence of technical growt
 
 Each addition strengthened the foundation of a portfolio that I can continue expanding throughout my academic program and eventually share with potential employers.
 
 
 Add Week 2 ethical dilemma analysis
+
+
+---
+
+## Reflection
+
+Week 2 encouraged me to think more deeply about the connection between my faith, my education, and my future career. As I continued developing my portfolio, I realized that every assignment was contributing not only to my technical knowledge but also to my personal growth.
+
+Planning my professional portfolio reminded me that employers look beyond technical skills. They also value integrity, communication, teamwork, and a willingness to learn. These are qualities I have developed throughout my career in the insurance industry and continue to strengthen as I study Information Technology.
+
+My spiritual study this week also reminded me that true success comes from trusting God while putting forth consistent effort. As I prepare for a career in System Administration, I want to remain teachable, continue learning new technologies, and use my knowledge to serve others responsibly.
+
+Looking back on Week 2, I am grateful for the opportunity to organize my goals, evaluate my progress, and recognize how both spiritual and professional growth are preparing me for the opportunities ahead.
+
+
