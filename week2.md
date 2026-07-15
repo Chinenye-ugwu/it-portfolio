@@ -34,3 +34,28 @@ During Week 2, I added several resources to my Spiritual Progression Portfolio, 
 - Experiences that strengthened my faith while learning new technical skills
 
 These resources continue to remind me that spiritual growth and professional development are not separate journeys but complementary parts of becoming the person I hope to be.
+
+
+---
+
+## Professional Development
+
+Week 2 provided an opportunity to further develop my Professional Growth Portfolio by refining my career goals, strengthening my résumé, and identifying projects that demonstrate both technical competence and personal growth.
+
+As I reflected on my professional journey, I recognized how the leadership, communication, customer service, and organizational skills I developed during more than ten years in the insurance industry continue to support my transition into Information Technology. These experiences have prepared me to work effectively with people while learning the technical skills required for a career in System Administration.
+
+During this week, I also began organizing evidence that will become part of my professional portfolio, including my résumé, technical projects, certifications, and career goals. Rather than simply collecting assignments, I am building a portfolio that demonstrates continuous learning and professional growth.
+
+### Professional Portfolio Progress
+
+During Week 2, I continued developing:
+
+- My professional résumé
+- Technical skills inventory
+- Career goals
+- Portfolio planning
+- Project documentation
+- Professional reflection
+- Evidence of technical growth
+
+Each addition strengthened the foundation of a portfolio that I can continue expanding throughout my academic program and eventually share with potential employers.
