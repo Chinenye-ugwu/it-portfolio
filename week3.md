@@ -83,3 +83,16 @@ Each of these projects reinforced not only my technical knowledge but also the i
 ### Career Goal
 
 My long-term goal is to begin my career as a **System Administrator** or **Cloud Support Engineer**, where I can continue learning, solve meaningful technical problems, and help organizations build secure, reliable, and efficient technology environments.
+
+
+---
+
+## Ethical Dilemma Analysis
+
+One of the most significant lessons from my previous career in the insurance industry involved the ethical handling of customer information. During a beneficiary claim visit, a manager recorded and shared a customer interaction publicly without obtaining clear consent. Although the intention may have been positive, the situation highlighted the importance of privacy, confidentiality, and responsible use of technology.
+
+Reflecting on this experience helped me recognize that ethical decision-making extends beyond following policies. It requires respect for individuals and careful consideration of how technology is used.
+
+The ACM Code of Ethics reinforces these principles by encouraging computing professionals to avoid harm, respect privacy, maintain confidentiality, and act with integrity. These values are directly applicable to careers in System Administration and Cloud Computing, where professionals are entrusted with protecting sensitive information.
+
+This experience strengthened my commitment to building secure systems, following ethical practices, and earning the trust of the people and organizations I will serve throughout my IT career.
