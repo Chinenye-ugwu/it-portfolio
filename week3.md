@@ -124,3 +124,16 @@ During Week 3, I added the following items to my IT497 Capstone Portfolio:
 - Featured technical projects
 - Ethical dilemma analysis based on professional experience
 - Personal reflection on spiritual and professional growth
+
+
+---
+
+## Week 3 Summary
+
+Week 3 marked an important milestone in my IT497 Capstone journey. During this week, I moved beyond planning and began building the core content of both my Spiritual Progression Portfolio and Professional Growth Portfolio.
+
+Developing my guiding principles, documenting technical projects, reflecting on ethical responsibilities, and strengthening my professional portfolio helped me recognize that technical competence and personal integrity go hand in hand. These experiences continue to prepare me for a career in System Administration, where I hope to build secure, reliable systems while serving others with honesty, professionalism, and respect.
+
+As I continue through the remaining weeks of the capstone, I look forward to expanding this portfolio with additional projects, reflections, and evidence of my growth as both a technology professional and a lifelong learner.
+
+[← Return to Home](index.md)
