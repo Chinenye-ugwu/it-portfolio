@@ -173,3 +173,14 @@ During Week 1, I gathered the following items as the foundation for my IT497 Cap
 - Personal reflection on faith and career transition
 - Technical skills inventory
 - Initial GitHub Pages portfolio
+
+
+---
+
+## Week 1 Summary
+
+Week 1 established the foundation for my IT497 Capstone Portfolio. It allowed me to reflect on my career transition, define meaningful personal and professional goals, and begin organizing evidence that demonstrates both my technical development and spiritual growth.
+
+As I continue through the remaining weeks of the capstone, this portfolio will expand to include additional technical projects, certifications, reflections, and professional achievements that prepare me for a successful career in System Administration and Cloud Computing.
+
+[← Return to Home](index.md)
