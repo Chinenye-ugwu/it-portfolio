@@ -108,3 +108,40 @@ My previous career strengthened several skills that directly support my transiti
 - Professional Ethics
 
 These experiences have prepared me to work effectively with both technology and people, allowing me to contribute positively to future organizations.
+
+
+
+---
+
+## Technical Projects & Skills
+
+Although Week 1 focused primarily on reflection and planning, it also highlighted the technical foundation I have been building throughout my studies at Ensign College.
+
+### Technical Skills
+
+During my program, I have gained practical experience with:
+
+- Ubuntu Linux
+- Windows Server
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Networking Fundamentals
+- IPv4 Addressing and Subnetting
+- Routing and Switching
+- Identity and Access Management (IAM)
+- Cybersecurity Fundamentals
+- Technical Documentation
+- Microsoft Office
+
+### Representative Technical Projects
+
+Some of the projects I have completed include:
+
+- AWS Ubuntu File Server Deployment
+- Azure Identity and Access Management (Microsoft Entra ID)
+- Windows Server Administration
+- Wazuh Security Monitoring Lab
+- Heritage Vault 2.0 Secure Storage Project
+- Networking Labs using Cisco Packet Tracer
+
+Each project has strengthened both my technical abilities and my confidence in solving real-world IT problems. More detailed descriptions of these projects are available in the **Projects** section of this portfolio.
