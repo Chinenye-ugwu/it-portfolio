@@ -59,3 +59,6 @@ During Week 2, I continued developing:
 - Evidence of technical growth
 
 Each addition strengthened the foundation of a portfolio that I can continue expanding throughout my academic program and eventually share with potential employers.
+
+
+Add Week 2 ethical dilemma analysis
