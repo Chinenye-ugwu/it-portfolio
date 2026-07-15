@@ -77,3 +77,16 @@ My spiritual study this week also reminded me that true success comes from trust
 Looking back on Week 2, I am grateful for the opportunity to organize my goals, evaluate my progress, and recognize how both spiritual and professional growth are preparing me for the opportunities ahead.
 
 
+---
+
+## Evidence Collected
+
+During Week 2, I added the following items to my IT497 Capstone Portfolio:
+
+- Expanded Spiritual Growth Portfolio
+- Professional portfolio planning
+- Updated résumé information
+- Career goals
+- Ethical dilemma analysis
+- Reflection on spiritual and professional development
+- Portfolio organization plan
