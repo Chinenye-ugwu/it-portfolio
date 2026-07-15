@@ -90,3 +90,14 @@ During Week 2, I added the following items to my IT497 Capstone Portfolio:
 - Ethical dilemma analysis
 - Reflection on spiritual and professional development
 - Portfolio organization plan
+
+
+---
+
+## Week 2 Summary
+
+Week 2 strengthened the foundation established during the first week of my IT497 Capstone journey. By expanding both my Spiritual Growth Portfolio and Professional Growth Portfolio, I gained a clearer understanding of how faith, ethics, and technical learning work together to prepare me for a successful career in Information Technology.
+
+The experiences from this week have reinforced my commitment to lifelong learning, ethical decision-making, and serving others through technology. As I continue through the remaining weeks of the capstone, I look forward to adding more projects, reflections, and evidence of my growth.
+
+[← Return to Home](index.md)
