@@ -50,7 +50,7 @@ This section documents my progress throughout the IT497 Capstone course.
 - [Week 2 – Deepening Engagement and Planning](week2.md)
 - [Week 3 – Guiding Principles and Initial Content Development](week3.md)
 - [Week 4 – Expansion, Deepening, and Project Integration](week4.md)
-- Week 5 *(Coming Soon)*
+- [Week 5 – Integration, Reflection, and Design](week5.md)
 - Week 6 *(Coming Soon)*
 - Week 7 *(Coming Soon)*
 
