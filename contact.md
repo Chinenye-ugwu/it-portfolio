@@ -10,19 +10,19 @@ I welcome opportunities to connect with professionals, mentors, recruiters, and 
 
 **Chinenye Edith Ugwu**
 
-https://www.linkedin.com/in/chinenye-ugwu-/
+[LinkedIn Profile](https://www.linkedin.com/in/chinenye-ugwu-/)
 
 ---
 
 ## GitHub
 
-https://github.com/Chinenye-ugwu
+[GitHub Profile](https://github.com/Chinenye-ugwu)
 
 ---
 
 ## Portfolio
 
-https://chinenye-ugwu.github.io/it-portfolio/
+[Professional Portfolio](https://chinenye-ugwu.github.io/it-portfolio/)
 
 ---
 
