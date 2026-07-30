@@ -414,3 +414,12 @@ The mental map represents the direction I want my life and career to follow. My 
 I recognize that I am still learning and growing. I will face challenges, make mistakes, and encounter situations that test my values. However, I want to continue returning to the principles that guide me and seek opportunities to improve.
 
 Ultimately, I want my career in System Administration or Cloud Support to be more than a job. I want it to be an opportunity to use my skills responsibly, serve others, protect information, continue learning, and reflect the values I have developed through my faith.
+
+
+## Week 5 Summary
+
+Week 5 focused on integrating my spiritual growth, ethical understanding, professional development, and portfolio design. Through the week's activities, I reflected on Christlike attributes, identified personal warning signs, developed strategies for realignment, evaluated the usability of my portfolio, and considered how ethical decision-making applies to my future career in Information Technology.
+
+The usability testing helped me recognize the importance of viewing my portfolio from the user's perspective and making improvements based on actual testing. The ethical dilemma reflection strengthened my understanding of privacy, consent, professional responsibility, and the importance of using technical access responsibly. My spiritual-professional integration reflection also helped me recognize that my faith, character, technical education, and career goals can strengthen one another.
+
+Overall, Week 5 helped me see my Professional Growth Portfolio as more than a collection of assignments. It is becoming a reflection of the professional and spiritual values I want to carry into my future career in System Administration or Cloud Support. I will continue building on these lessons as I finalize my portfolio and prepare for the next stage of my professional development.
