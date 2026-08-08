@@ -292,15 +292,18 @@ The ethical dilemma therefore connects closely with the three principles that ha
 
 **Continuous learning** reminds me to keep developing my understanding of privacy, cybersecurity, professional standards, and ethical responsibilities.
 
+My cloud computing experiences have reinforced this same principle. Managing users, groups, storage, virtual machines, and access permissions requires careful consideration of who should have access to information and resources. In cloud environments, security controls such as role-based access and appropriate permissions are not only technical configurations; they are part of the responsibility I have to protect organizational systems and information. This connection has strengthened my commitment to combining technical competence with integrity and ethical judgment.
+
 ### Conclusion
 
-The ethical dilemma I examined has strengthened my understanding of the responsibilities that accompany professional access and authority. The situation demonstrated that privacy and consent should not be overlooked simply because an action appears beneficial or technically possible.
+The ethical dilemma I examined has strengthened my understanding of the responsibilities that accompany professional access and authority. The situation demonstrated that privacy and consent should not be overlooked simply because an action appears beneficial or technically possible.As I continue preparing for a career in System Administration and Cloud Support, I want these principles to guide not only what I am technically capable of doing, but also how responsibly and ethically I choose to use those abilities.
 
 As I prepare for a career in System Administration and Cloud Support, I understand that I will have responsibilities that extend beyond configuring systems and solving technical problems. I may have access to sensitive information and powerful administrative tools, and I will need to use that access responsibly.
 
 In future situations, I will consider authorization, consent, privacy, organizational policies, potential harm, and professional standards before acting. If I encounter an ethical concern, I will seek clarification, communicate respectfully, and use appropriate escalation procedures rather than ignoring the problem.
 
 Most importantly, I want my technical abilities to be guided by character. I want to be known not only as someone who can solve technical problems, but as an IT professional who can be trusted to protect information, respect people, act with integrity, and make responsible decisions.
+
 
 
 ## Task 3 – Spiritual–Professional Integration Reflection
