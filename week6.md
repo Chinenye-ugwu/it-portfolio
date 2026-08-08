@@ -137,4 +137,72 @@ I want to continue growing as a person, a disciple of Jesus Christ, and an IT pr
 
 My portfolio therefore represents both where I have been and where I am going. It documents my developing technical abilities, but it also reflects my commitment to becoming someone who can be trusted to use those abilities responsibly. My future goals will continue to develop, but integrity, service, and continuous learning will remain important foundations for the professional and person I hope to become.
 
+# Portfolio Peer Review Report
 
+Peer review was an important part of my IT497 Capstone experience because it gave me an opportunity to evaluate other students' Spiritual Progression and Professional Growth Portfolios while also receiving feedback on my own work. Reviewing other portfolios helped me identify strengths, provide constructive suggestions, and reflect on how effectively my own portfolio communicates spiritual growth, professional development, technical skills, and future career goals.
+
+## Peer Review 1 – Prosper Otakhoigbogie
+
+I completed a peer review of Prosper Otakhoigbogie's Spiritual Progression and Professional Growth Portfolios.
+
+One of the strongest aspects I identified in Prosper's work was the clear connection between his spiritual principles and his professional responsibilities in Information Technology. I particularly appreciated his principle of **Absolute Ethical Stewardship** and his understanding that technical privileges provide access while personal integrity should guide how that access is used. I noted that this principle is especially relevant to System Administration because IT professionals may have access to sensitive information and powerful systems.
+
+I also appreciated Prosper Otakhoigbogie's principle of **Learning by Study and by Faith**. I connected with his recognition that difficult technical problems require both analytical effort and personal faith. I noted that IT students often encounter situations where troubleshooting does not immediately produce the expected result, and that continuing to learn, remain patient, and seek guidance can help us grow through those experiences.
+
+Another strength I identified was Prosper Otakhoigbogie's goal of using technology to mentor youth in digital literacy, data privacy, and ethical online conduct. I noted that this demonstrated a desire to use technical abilities not only for certifications and employment but also to serve others.
+
+I suggested that Prosper Otakhoigbogie strengthen his portfolio by including more specific personal examples showing how his principles influenced him during his IT education. I recommended describing a particular technical challenge or ethical situation and explaining how one of his guiding principles affected his response.
+
+I also suggested that the technical project descriptions could be made more accessible to a broader audience by briefly explaining the main problem each project addressed and what he personally learned from completing it. I explained that while technical terminology demonstrates knowledge, a short explanation of the practical purpose and personal learning could help readers better understand the significance of each project.
+
+I concluded my review by asking Prosper Otakhoigbogie how he planned to maintain his commitment to ethical stewardship when facing pressure in a future workplace to prioritize speed, convenience, or business results over security and privacy.
+
+## Peer Review 2 – Evans Odion
+
+I also completed a peer review ofEvans Odion's Spiritual and Professional Growth Portfolio.
+
+One of the strengths I identified in Evans Odion's portfolio was the clear connection between his spiritual values and his professional development in Information Technology. His three guiding principles of **integrity, continuous learning, and service** provided a strong foundation for his future career.
+
+I especially appreciated Evans Odion's emphasis on integrity when working with technology and sensitive information. I noted that this is important in IT because professionals may have access to systems and information that affect other people. I also recognized the importance of his focus on continuous learning because technologies and security practices continue to change, requiring IT professionals to remain adaptable.
+
+I also identified a strong connection between Evans Odion's professional projects and his goal of becoming an effective IT professional. His experience with Linux administration, AWS cloud solutions, networking, SQL databases, and cybersecurity demonstrated that he was developing skills across several important areas of Information Technology.
+
+For improvement, I suggested that Evans Odion include more specific examples of how his spiritual principles influenced him during his technical education. I recommended describing a particular technical challenge or project where integrity, service, or continuous learning affected the way he approached the situation. I explained that this would make the connection between his spiritual growth and professional development more personal.
+
+I also suggested providing more detail about the projects in his Professional Growth Portfolio. I recommended briefly explaining what problem each project addressed, what he personally contributed, and what he learned so that readers could better understand his professional growth.
+
+I concluded my review by asking Evans how he planned to apply his principles of integrity, continuous learning, and service when beginning work in an IT environment where he might face difficult technical or ethical decisions.
+
+## Feedback I Received – Martin Aiah Nyama
+
+I received peer-review feedback from Martin Aiah Nyama on my Spiritual Progression and Professional Growth Portfolios.
+
+Martin recognized the strong connection between my faith and my professional goals in cloud computing and System Administration. He also recognized the technical content in my portfolio, including my development in networking, cloud computing, cybersecurity, troubleshooting, and systems administration.
+
+His feedback helped me recognize that I could strengthen my portfolio by providing more detailed information about my technical projects and including additional evidence of my practical experience. This showed me that listing technical skills and projects was not enough. I needed to demonstrate more clearly what I had done, what I learned, and how my experiences contributed to my professional development.
+
+## How I Implemented the Feedback
+
+I implemented Martin's feedback by strengthening the Technical Projects section of my Professional Growth Portfolio.
+
+I expanded the descriptions of my major technical projects to explain the technologies involved, the skills demonstrated, and what I learned from each experience. This changed the technical section from simply listing skills into a clearer record of practical experience and professional development.
+
+I also added additional project evidence. The **Heritage Vault 2.0** section now includes a link to my project proposal. The proposal documents my enterprise Linux infrastructure design and addresses security, high availability, data protection, scalability, and disaster recovery considerations.
+
+I added my **Nmap Network Reconnaissance** project as another example of practical cybersecurity and networking experience. The section explains the reconnaissance work I performed using NMAP in Kali Linux and provides a link to the supporting project evidence.
+
+I also added videos demonstrating my cloud-related work. These include my **Cloud Transformation Proposal** and my **Azure VM Connectivity and Network Access Configuration** demonstration. These videos provide additional evidence of my developing cloud administration skills and practical experience with Azure virtual machines, RDP connectivity, network access, and troubleshooting.
+
+I also strengthened the connection between my technical development and ethical responsibility. My portfolio now explains how technical access must be accompanied by responsibility, particularly when working with sensitive information, administrative privileges, privacy, security, and access control.
+
+## Reflection on the Peer Review Process
+
+The peer review process taught me that constructive feedback can reveal areas of a project that I may not recognize on my own. Reviewing Prosper's and Evans's portfolios helped me think more carefully about organization, clarity, evidence, and the connection between personal values and professional goals.
+
+Completing two peer reviews also helped me practice providing feedback that was specific, respectful, and useful. In both reviews, I tried to identify strengths before offering suggestions for improvement. The experience showed me that effective professional feedback should encourage growth rather than simply identify weaknesses.
+
+The feedback I received from Martin was also valuable because it gave me an outside perspective on my own portfolio. His suggestions helped me recognize that my technical projects needed stronger explanations and evidence. I used that feedback to make specific improvements rather than simply acknowledging the suggestions.
+
+The changes made to my portfolio demonstrate how I implemented the feedback. The expanded technical project descriptions, Heritage Vault project evidence, Nmap project evidence, and Azure project videos provide stronger evidence of my practical development.
+
+The peer review experience also reinforced an important principle that I will carry into my IT career: professional growth requires a willingness to listen, learn, accept constructive criticism, and improve. In Information Technology, I will continue to learn from instructors, coworkers, supervisors, mentors, and users as I develop into a more capable and trustworthy professional.
