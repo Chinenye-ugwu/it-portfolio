@@ -43,12 +43,16 @@ This project strengthened my Linux administration skills and taught me the impor
 - Risk awareness
 - Access management
 
-### What I Learned
-
 **What I Learned**
 
 This project strengthened my understanding of enterprise Linux infrastructure, security, high availability, data protection, and disaster recovery. I developed a proposed architecture using technologies and concepts such as HAProxy and Keepalived for load balancing and failover, SELinux and nftables for security controls, Wazuh for intrusion detection, encrypted storage, distributed storage, and a 3-2-1 backup strategy. The project taught me how technical architecture decisions can support security, reliability, scalability, and responsible protection of information.
 
+
+**Project Evidence**
+
+[View Heritage Vault 2.0 Project Proposal](https://docs.google.com/document/d/111_32Mck8sTNu7lZlIoRLyLQ71ReW9Cl/edit)
+
+This project proposal documents my enterprise Linux infrastructure design, including security, high availability, data protection, scalability, and disaster recovery considerations.
 ---
 
 # Security Monitoring with Wazuh
