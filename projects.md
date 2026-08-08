@@ -91,6 +91,13 @@ This project introduced me to security monitoring and showed how continuous moni
 Through this ongoing project, I continue developing practical cloud administration skills while learning how identity management and security work together to protect organizational resources.
 
 ---
+**Project Video**
+
+[Cloud Transformation Proposal](https://vimeo.com/1164282717/8c652d24c3?fl=tl&fe=ec)
+
+This presentation provides additional evidence of my developing cloud computing knowledge and supports my goal of pursuing a career in Cloud Support or System Administration.
+
+
 
 # GitHub Portfolio
 
