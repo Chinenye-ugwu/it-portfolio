@@ -45,7 +45,9 @@ This project strengthened my Linux administration skills and taught me the impor
 
 ### What I Learned
 
-I learned that protecting information requires careful planning and responsible system design. This project reinforced the importance of confidentiality and trust.
+**What I Learned**
+
+This project strengthened my understanding of enterprise Linux infrastructure, security, high availability, data protection, and disaster recovery. I developed a proposed architecture using technologies and concepts such as HAProxy and Keepalived for load balancing and failover, SELinux and nftables for security controls, Wazuh for intrusion detection, encrypted storage, distributed storage, and a 3-2-1 backup strategy. The project taught me how technical architecture decisions can support security, reliability, scalability, and responsible protection of information.
 
 ---
 
@@ -91,11 +93,15 @@ This project introduced me to security monitoring and showed how continuous moni
 Through this ongoing project, I continue developing practical cloud administration skills while learning how identity management and security work together to protect organizational resources.
 
 ---
-**Project Video**
+**Project Videos**
 
 [Cloud Transformation Proposal](https://vimeo.com/1164282717/8c652d24c3?fl=tl&fe=ec)
 
 This presentation provides additional evidence of my developing cloud computing knowledge and supports my goal of pursuing a career in Cloud Support or System Administration.
+
+[Azure VM Connectivity and Network Access Configuration](https://vimeo.com/1106781325/7ebf7a6a6e?fl=tl&fe=ec)
+
+This demonstration provides evidence of my practical Azure experience, including connecting to Azure virtual machines through Remote Desktop Protocol (RDP) and configuring network access for web traffic through port 80. The project strengthened my understanding of virtual machine administration, network security rules, and troubleshooting cloud connectivity.
 
 
 
