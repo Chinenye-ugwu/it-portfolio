@@ -76,6 +76,37 @@ This project introduced me to security monitoring and showed how continuous moni
 
 ---
 
+# Nmap Network Reconnaissance
+
+## Technologies
+
+- NMAP 7.98
+- Kali Linux
+- Linux Command Line
+- Network Scanning
+
+### Skills Demonstrated
+
+- Network reconnaissance
+- Host discovery
+- Port and service identification
+- Service version detection
+- Target prioritization
+- Security assessment
+- Technical documentation
+
+### What I Learned
+
+This project strengthened my understanding of network reconnaissance and security assessment using NMAP. Working in a Kali Linux environment, I conducted reconnaissance of the TechLab network to identify active hosts, services, and potential targets for further analysis.
+
+The assessment scanned 2,048 addresses and identified 213 live hosts. I used NMAP service detection and targeted scanning techniques to examine selected systems and identify services such as Remote Desktop Protocol (RDP) and Proxmox infrastructure. I also exported scan results to a file to support accuracy and reproducibility.
+
+This experience strengthened my ability to use command-line security tools, interpret reconnaissance results, prioritize potential targets, and document technical findings. It also reinforced the importance of using security tools responsibly and within an authorized environment.
+
+**Project Evidence**
+
+[View Executive Summary: TechLab Reconnaissance (Project #7)](https://drive.google.com/file/d/1K0ou3nL9UtPGdRsi2vXXZhkyHg1zTkkS/view?usp=sharing)
+
 # Azure System Administration Project
 
 ## Technologies
