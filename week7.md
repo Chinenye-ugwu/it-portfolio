@@ -106,7 +106,7 @@ My journey does not end with IT497. This is the beginning of the next stage of m
 
 ### Handwritten Reflection
 
-Completed as part of the Week 7 future reflection requirement.
+Completed and scanned as required for the Week 7 future reflection submission.
 
 ## Roundtable Discussion
 
