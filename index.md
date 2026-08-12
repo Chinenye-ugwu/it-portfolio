@@ -46,14 +46,13 @@ Ways to connect with me professionally.
 
 This section documents my progress throughout the IT497 Capstone course.
 
-- [Week 1 – Personal and Professional Foundation](week1.md)
-- [Week 2 – Deepening Engagement and Planning](week2.md)
-- [Week 3 – Guiding Principles and Initial Content Development](week3.md)
-- [Week 4 – Expansion, Deepening, and Project Integration](week4.md)
-- [Week 5 – Integration, Reflection, and Design](week5.md)
-- Week 6 *(Coming Soon)*
-- Week 7 *(Coming Soon)*
-
+- [Week 1 – Personal and Professional Foundation](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week1.md)
+- [Week 2 – Deepening Engagement and Planning](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week2.md)
+- [Week 3 – Guiding Principles and Initial Content Development](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week3.md)
+- [Week 4 – Expansion, Deepening, and Project Integration](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week4.md)
+- [Week 5 – Integration, Reflection, and Design](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week5.md)
+- [Week 6 – Finalization and Presentations](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week6.md)
+- [Week 7 – What’s Next?](https://github.com/Chinenye-ugwu/it-portfolio/blob/main/week7.md)
 ---
 
 # Education
