@@ -102,7 +102,7 @@ My journey does not end with IT497. This is the beginning of the next stage of m
 
 ### Postcourse Assessment Presentation
 
-[Week 7 – What’s Next Presentation](PASTE-YOUR-PRESENTATION-LINK-HERE)
+[Week 7 – What’s Next Presentation](https://vimeo.com/1217690693)
 
 ### Handwritten Reflection
 
@@ -159,6 +159,10 @@ I will continue improving my portfolio by adding technical project evidence, str
 ### Roundtable Evidence
 
 Screenshots of the Week 7 roundtable discussion are retained as evidence of my participation and the feedback exchanged during the discussion.
+
+[View Roundtable Discussion Evidence](https://docs.google.com/document/d/1VM7MZli3eKAtZC-JNj06aeDLAzd4WocS/edit?usp=sharing&ouid=110833139629387751860&rtpof=true&sd=true)
+
+
 ### Course Evaluation
 
 Completed as required for the IT497 course.
