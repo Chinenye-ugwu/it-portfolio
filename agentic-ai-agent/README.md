@@ -18,31 +18,55 @@
 ## What I Learned
 This project was a self-directed, week-long deep dive into agentic AI,
 built from raw API calls rather than a framework, to understand the
-underlying mechanics before relying on abstractions. I learned the
-distinction between fixed workflows and true agents, and implemented the
-ReAct pattern (reason → act → observe → repeat) that underlies most
-agentic systems.
+underlying mechanics before relying on abstractions.
 
-Working through this project taught me how agents decide which tools to
-call and in what order, how to ground responses in real reference material
-using RAG instead of relying on a model's general knowledge, and how to
-give an agent persistent memory that survives across separate sessions.
-I also learned the importance of safety guardrails — such as step limits
-and honest failure handling — after directly observing an agent correctly
-decline to fabricate data when a lookup failed, and instead ask for human
-clarification.
+**Day 1 — Concepts.** I studied the distinction between fixed workflows
+and true agents, and the ReAct pattern (reason → act → observe → repeat)
+that underlies most agentic systems.
 
-Real debugging was part of the learning process: I resolved an API
-model-deprecation error, an editor/file-path synchronization issue
-(diagnosed by verifying file contents directly from the command line
-rather than trusting the editor), and a live encounter with API rate
-limits — a practical lesson in why production agents need to handle
-API-level failures gracefully, not just tool-level ones.
+**Day 2 — First working agent (tool use).** I built a single-tool
+calculator agent from the raw Gemini API, and debugged a model-deprecation
+error and a file-sync issue between my editor and the terminal.
+
+**Day 3 — Multiple tools and graceful failure.** I added a second tool
+(client lookup) and watched the model choose between tools, chain their
+outputs together, and — critically — handle a failed lookup honestly
+instead of fabricating data, asking for human clarification instead.
+
+**Day 4/5 — RAG and memory.** I combined a static knowledge file (RAG)
+with a persistent memory file that survives across separate script runs.
+A fact saved in one run was correctly recalled in a completely separate,
+later run — proof the memory persisted outside the conversation itself.
+
+**Day 6 — Safety and evaluation.** I attempted to force the agent's
+`max_steps` safety guardrail to trigger using multiple simultaneous
+invalid lookups. The agent avoided hitting the limit by parallelizing
+independent tool calls and failing gracefully within just two steps — a
+useful finding in itself: well-designed tool use can reduce how often a
+hard safety limit is actually needed, though the limit remains valuable
+as a backstop.
+
+**Day 7 — Shipping the final agent.** I combined tool use, RAG, memory,
+and safety guardrails into one final, documented agent.
+
+Real debugging was part of the learning process throughout: an API
+model-deprecation error (fixed by reading the error message and updating
+the model string), an editor/file-path synchronization issue (diagnosed
+by verifying file contents directly from the command line rather than
+trusting the editor), and a live encounter with API rate limits — a
+practical lesson in why production agents need to handle API-level
+failures gracefully, not just tool-level ones.
 
 ## Project Evidence
 
 **[View the agent code (`agent.py`)](agent.py)**  
 The final combined agent — tool use, RAG, memory, and safety guardrails in one system.
+
+---
+
+**API setup (sanitized)**
+
+![API key page](api-key.png)
 
 ---
 
@@ -79,12 +103,6 @@ The final combined agent — tool use, RAG, memory, and safety guardrails in one
 **Day 7 — Final capstone run**
 
 ![Day 7 final capstone run](day7-final.png)
-
----
-
-**API setup (sanitized)**
-
-![API key page](api-key.png)
 
 ## How to Run
 ```bash
