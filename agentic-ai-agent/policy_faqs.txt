@@ -1,0 +1,19 @@
+POLICY FAQs (Sample / Dummy Data for Learning Purposes)
+
+Q: What happens if a client misses a premium payment?
+A: There is a 30-day grace period from the due date. If payment is not
+received within that window, the policy lapses and must be reinstated,
+which may require a new health declaration for life policies.
+
+Q: Can a client change their payment frequency (monthly to annual)?
+A: Yes, payment frequency can be changed at the next renewal date by
+submitting a written request at least 14 days before renewal.
+
+Q: What documents are required to file a claim?
+A: A completed claim form, valid ID, the original policy document, and
+for motor claims, a police report if the incident involved a third party.
+
+Q: How long does claim processing typically take?
+A: Standard claims are processed within 10 working days of receiving
+complete documentation. Complex claims may take longer pending
+investigation.
