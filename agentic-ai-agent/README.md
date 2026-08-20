@@ -22,44 +22,31 @@ agentic AI capabilities into one system:
   agent is instructed to ask for clarification rather than invent data when
   a lookup fails.
 
-## What I learned, day by day
-| Day | Focus | Key takeaway |
-|---|---|---|
-| 1 | Concepts | Workflows vs. agents; the ReAct loop (reason → act → observe) |
-| 2 | Tool use | Built a single-tool calculator agent; debugged a model-deprecation error and an editor/file-sync issue |
-| 3 | Multi-tool agents | Watched the model choose between tools, chain results, and fail gracefully (asked for clarification instead of fabricating a client record) |
-| 4/5 | RAG + memory | Combined a static knowledge file with a persistent memory file; confirmed a fact saved in one run was correctly recalled in a separate run |
-| 6 | Safety & evaluation | Tried to force the step-limit guardrail to trigger; found the agent's own efficient behavior (parallel tool calls, honest failure) made this hard to force — a useful finding in itself |
-| 7 | Shipping | Combined everything into one final, documented agent |
+## Day-by-day journey
 
-## Notable debugging moments (real troubleshooting, not just happy-path code)
-- **API model deprecation**: hit a `404` error when a model version became
-  unavailable mid-project; fixed by reading the error message and updating
-  the model string.
-- **Editor/file-path mismatch**: repeated Notepad saves weren't reaching the
-  file actually being executed; diagnosed using `type file | findstr` to
-  verify file contents directly from the command line rather than trusting
-  the editor, then resolved using PowerShell's `Get-Content`/`Set-Content`
-  to edit the file in place.
-- **API rate limits**: hit the free tier's daily request quota mid-session;
-  a real example of why production agents need to handle API-level failures
-  gracefully, not just tool-level failures.
+### Day 1 — Concepts
+Studied the distinction between fixed workflows and true agents, and the
+ReAct pattern (reason → act → observe → repeat) that underlies most agentic
+systems.
 
-## How to run it
-```bash
-python -m venv agent-env
-agent-env\Scripts\activate      # Windows
-pip install google-genai
-set GEMINI_API_KEY=your-key-here
-python agent.py
-```
+### Day 2 — First working agent (tool use)
+Built a single-tool calculator agent from the raw Gemini API. Debugged a
+model-deprecation error (the API pointed me to the newer model version to
+use) and a file-sync issue between my editor and the terminal.
 
-## Files
-- `agent.py` — the final combined agent
-- `policy_faqs.txt` — sample knowledge base (dummy data)
-- `agent_memory.json` — generated automatically after first run
+![404 model error and fix](404_model_error_+%20_fix.png)
 
-## Tech
-Python, Google Gemini API (`gemini-3.6-flash`), function calling / tool use.
-No agent framework used — built directly on the raw API to understand the
-mechanics first.
+![Day 2 final working output — three parallel tool calls](Day_2_final_working_output_the_3_parallel_tool_calls_run.png)
+
+The agent correctly chained three dependent calculations (annual total →
+5-year total → 10% commission), firing all three tool calls in a single step
+since it recognized they were independent.
+
+### Day 3 — Multiple tools and graceful failure
+Added a second tool (client lookup) and watched the model choose between
+tools, chain their outputs together, and — critically — handle a failed
+lookup honestly instead of fabricating data.
+
+![Day 3 — Adeyemi successful multi-tool chain](Day_3_Adeyemi_chain_successful_multi_tool.png)
+
+![Day 3 — Musa graceful failure](Day_3_Musa_graceful_failure.png)
