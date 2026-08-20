@@ -34,9 +34,9 @@ Built a single-tool calculator agent from the raw Gemini API. Debugged a
 model-deprecation error (the API pointed me to the newer model version to
 use) and a file-sync issue between my editor and the terminal.
 
-![404 model error and fix](404_model_error_fix.png)
+![404 model error and fix](day2-error-fix.png)
 
-![Day 2 final working output — three parallel tool calls](Day_2_final_working_output_the_3_parallel_tool_calls_run.png)
+![Day 2 final working output — three parallel tool calls](day2-output.png)
 
 The agent correctly chained three dependent calculations (annual total →
 5-year total → 10% commission), firing all three tool calls in a single step
@@ -47,9 +47,9 @@ Added a second tool (client lookup) and watched the model choose between
 tools, chain their outputs together, and — critically — handle a failed
 lookup honestly instead of fabricating data.
 
-![Day 3 — Adeyemi successful multi-tool chain](Day_3_Adeyemi_chain_successful_multi_tool.png)
+![Day 3 — Adeyemi successful multi-tool chain](day3-adeyemi.png)
 
-![Day 3 — Musa graceful failure](Day_3_Musa_graceful_failure.png)
+![Day 3 — Musa graceful failure](day3-musa.png)
 
 When asked about a client not in the records, the agent retried once with a
 different name format, then correctly asked for human clarification rather
@@ -59,9 +59,9 @@ than inventing a policy.
 Combined a static knowledge file (RAG) with a persistent memory file that
 survives across separate script runs.
 
-![Combined RAG + memory run](Combined_RAG_memory_run.png)
+![Combined RAG + memory run](day4-rag-memory.png)
 
-![agent_memory.json contents](agent_memory_json_contents.png)
+![agent_memory.json contents](day4-memory-json.png)
 
 A fact saved in one run (a client's contact preference) was correctly
 recalled in a completely separate, later run of the script — proof the
@@ -79,7 +79,7 @@ valuable as a backstop.
 Combined tool use, RAG, memory, and safety guardrails into one final,
 documented agent.
 
-![Day 7 final capstone run](Day7_final_capstone_run.png)
+![Day 7 final capstone run](day7-final.png)
 
 ## Notable debugging moments
 - **API model deprecation** — a `404` error mid-project when a model version
@@ -94,7 +94,7 @@ documented agent.
   gracefully, not just tool-level ones.
 
 ## API key setup (sanitized)
-![API key page](API_key_sanitized.png)
+![API key page](api-key.png)
 
 ## How to run it
 ```bash
