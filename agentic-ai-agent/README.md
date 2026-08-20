@@ -41,26 +41,49 @@ API-level failures gracefully, not just tool-level ones.
 
 ## Project Evidence
 
-**[View the agent code (`agent.py`)](agent.py)**
-The final combined agent — tool use, RAG, memory, and safety guardrails
-in one system.
+**[View the agent code (`agent.py`)](agent.py)**  
+The final combined agent — tool use, RAG, memory, and safety guardrails in one system.
 
-**Day 2 — First working agent (tool use)**
+---
+
+**Day 2 — 404 model error and fix**
+
 ![404 model error and fix](day2-error-fix.png)
-![Day 2 final working output — three parallel tool calls](day2-output.png)
 
-**Day 3 — Multiple tools and graceful failure**
-![Day 3 — Adeyemi successful multi-tool chain](day3-adeyemi.png)
-![Day 3 — Musa graceful failure](day3-musa.png)
+**Day 2 — Final working output (three parallel tool calls)**
 
-**Day 4/5 — RAG and memory**
-![Combined RAG + memory run](day4-rag-memory.png)
+![Day 2 final working output](day2-output.png)
+
+---
+
+**Day 3 — Adeyemi: successful multi-tool chain**
+
+![Day 3 Adeyemi chain](day3-adeyemi.png)
+
+**Day 3 — Musa: graceful failure**
+
+![Day 3 Musa graceful failure](day3-musa.png)
+
+---
+
+**Day 4/5 — Combined RAG + memory run**
+
+![Combined RAG and memory run](day4-rag-memory.png)
+
+**Day 4/5 — agent_memory.json contents**
+
 ![agent_memory.json contents](day4-memory-json.png)
 
+---
+
 **Day 7 — Final capstone run**
+
 ![Day 7 final capstone run](day7-final.png)
 
+---
+
 **API setup (sanitized)**
+
 ![API key page](api-key.png)
 
 ## How to Run
