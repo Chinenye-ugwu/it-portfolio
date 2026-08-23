@@ -52,6 +52,32 @@ Documents a real design iteration: the original claims-document branch,
 the feedback that prompted a change, the revised version, and the
 reasoning behind each change.
 
+
+## Working Prototype
+
+To validate the design, I built a working, interactive version of this
+flow using the Google Gemini API (the same approach as the Agentic AI
+Assistant project). The entire branching logic and empathetic tone
+revisions live in the system prompt, with tools handling the concrete
+actions: looking up required documents, checking claim status, and
+remembering facts (contact preference, claim progress) across the
+conversation.
+
+**[View the prototype code (`chatbot_prototype.py`)](chatbot_prototype.py)**
+
+### Sample run — filing a motor claim
+
+![Chatbot prototype run, part 1](chatbot-run-1.png)
+
+![Chatbot prototype run, part 2](chatbot-run-2.png)
+
+The conversation demonstrates the design goals working as intended: an
+empathetic opening rather than jumping straight to a checklist, documents
+collected one at a time in natural conversation rather than a form-style
+list, intelligent handling of the conditional police-report requirement,
+and a proactive save of the client's contact preference to memory —
+all without being explicitly instructed to do so at that moment.
+
 ## Next Steps
 A working prototype of this flow (similar to the agentic AI assistant
 project) would be a natural extension — turning the scripted branches
