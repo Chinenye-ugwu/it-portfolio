@@ -42,6 +42,8 @@ Maps the full branching structure: greeting → four intent branches → each
 branch's key decision point → shared contact-preference/privacy step →
 close.
 
+![Conversation flow diagram](flow-diagram.png)
+
 **[Full scripted dialogue](chatbot_dialogue_script.md)**
 All four branches written out in full, in a warm, client-appropriate tone.
 
