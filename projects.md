@@ -159,3 +159,62 @@ This demonstration provides evidence of my practical Azure experience, including
 ### What I Learned
 
 Building this portfolio has helped me organize my academic work professionally while learning the fundamentals of version control and website publishing.
+
+
+---
+
+# Agentic AI Assistant Agent
+
+## Technologies
+
+- Google Gemini API (gemini-3.6-flash)
+- Python
+- Function Calling / Tool Use
+- Retrieval-Augmented Generation (RAG)
+- JSON-based persistent memory
+
+### Skills Demonstrated
+
+- Agentic system design (tool use, multi-step reasoning loops)
+- API integration and debugging
+- Retrieval-augmented generation (grounding responses in external data)
+- Persistent state management
+- Safety guardrail design (loop limits, graceful failure handling)
+- Command-line environment troubleshooting
+
+### What I Learned
+
+This project was a self-directed, week-long deep dive into agentic AI, built from raw API calls rather than a framework, to understand the underlying mechanics before relying on abstractions. I implemented tool use, retrieval-augmented generation, persistent memory, and safety guardrails into one working agent, and documented real debugging along the way — an API model-deprecation error, an editor/file-sync issue, and a live encounter with API rate limits.
+
+**Project Evidence**
+
+[View Agentic AI Assistant Agent](https://github.com/Chinenye-ugwu/it-portfolio/tree/main/agentic-ai-agent)
+
+This project documents a full 7-day build: conversation flow diagrams, scripted dialogue, working code, and screenshots of each stage — from first tool call through a shipped final agent.
+
+---
+
+# Insurance Chatbot — Conversation Flow Design
+
+## Technologies
+
+- Conversation/dialogue design
+- Flowchart mapping
+- UX writing
+
+### Skills Demonstrated
+
+- Conversation flow design (branching dialogue, not linear scripts)
+- Scripted dialogue writing with tone and empathy in mind
+- Iterative design based on simulated user feedback
+- UX thinking for client-facing, trust-sensitive interactions
+
+### What I Learned
+
+This project was a hands-on exercise in designing a conversational flow for an insurance client chatbot, covering four real client scenarios: filing a claim, checking claim status, a prospective client still deciding on coverage, and a fallback path for unclear requests. I practiced the iterative side of conversation design by simulating user feedback and revising a branch in response — leading with empathy and breaking a document checklist into a step-by-step conversation rather than a form-style yes/no gate.
+
+**Project Evidence**
+
+[View Insurance Chatbot Conversation Design](https://github.com/Chinenye-ugwu/it-portfolio/tree/main/chatbot-conversation-design)
+
+This project documents the full branching flow, scripted dialogue for all four branches, and a before/after revision showing the design iteration process.
