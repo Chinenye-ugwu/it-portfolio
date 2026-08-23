@@ -79,6 +79,7 @@ and a proactive save of the client's contact preference to memory —
 all without being explicitly instructed to do so at that moment.
 
 ## Next Steps
-A working prototype of this flow (similar to the agentic AI assistant
-project) would be a natural extension — turning the scripted branches
-into an actual running conversational agent.
+A natural next step would be extending the prototype's memory to persist
+across multiple different clients rather than a single shared file, and
+testing the prospect and status-check branches as thoroughly as the
+claim-filing branch was tested here.
