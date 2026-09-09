@@ -220,6 +220,9 @@ This project was a hands-on exercise in designing a conversational flow for an i
 This project documents the full branching flow, scripted dialogue for all four branches, and a before/after revision showing the design iteration process.
 
 
+---
+
+
 ### SQL & Relational Database Administration
 
 **Technologies**
@@ -242,6 +245,7 @@ This project strengthened my understanding of relational database administration
 **Project Evidence**
 [View SQL & Database Repository on GitHub](https://github.com/chinenye-ugwu)
 
+---
 
 ### T-SQL Database Manipulation & Query Repository
 
