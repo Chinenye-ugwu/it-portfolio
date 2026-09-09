@@ -241,3 +241,44 @@ This project strengthened my understanding of relational database administration
 
 **Project Evidence**
 [View SQL & Database Repository on GitHub](https://github.com/chinenye-ugwu)
+
+
+### T-SQL Database Manipulation & Query Repository
+
+**Technologies**
+* T-SQL
+* SQL Server
+* Relational Databases
+* GitHub Version Control
+
+**Skills Demonstrated**
+* Relational database design & schema management
+* T-SQL data manipulation & transactional queries
+* Version control for database scripts
+
+**What I Learned**
+Developed structured T-SQL data manipulation scripts and relational database queries, utilizing GitHub version control to manage database schemas, CRUD operations, and data organization models.
+
+**Project Evidence**
+[View SQL Repository on GitHub](https://github.com/chinenye-ugwu)
+
+---
+
+### Python SQLite Database Management System
+
+**Technologies**
+* Python
+* SQLite
+* Database Administration
+* CRUD Operations
+
+**Skills Demonstrated**
+* Python database integration
+* Automated record management
+* Database query optimization
+
+**What I Learned**
+Built a Python-based database administration script implementing full CRUD (Create, Read, Update, Delete) functionality to manage, query, and manipulate structured database records using SQLite.
+
+**Project Evidence**
+[View Python SQLite Repository on GitHub](https://github.com/chinenye-ugwu)
