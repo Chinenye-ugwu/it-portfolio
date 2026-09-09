@@ -218,3 +218,26 @@ This project was a hands-on exercise in designing a conversational flow for an i
 [View Insurance Chatbot Conversation Design](https://github.com/Chinenye-ugwu/it-portfolio/tree/main/chatbot-conversation-design)
 
 This project documents the full branching flow, scripted dialogue for all four branches, and a before/after revision showing the design iteration process.
+
+
+### SQL & Relational Database Administration
+
+**Technologies**
+* T-SQL
+* SQL Server
+* SQLite
+* Python
+* Dimensional Modeling
+
+**Skills Demonstrated**
+* Relational database design & schema management
+* T-SQL data manipulation & CRUD queries
+* Python database integration
+* Dimensional data modeling
+* Version control for SQL scripts
+
+**What I Learned**
+This project strengthened my understanding of relational database administration, schema design, and data manipulation. Working with T-SQL and SQLite, I authored structured scripts to perform CRUD operations, complex joins, and transactional queries. I also implemented dimensional modeling techniques for data organization and built a Python application to automate database administrative tasks.
+
+**Project Evidence**
+[View SQL & Database Repository on GitHub](https://github.com/chinenye-ugwu)
