@@ -289,4 +289,62 @@ Built a Python-based database administration script implementing full CRUD (Crea
 
 ---
 
+* * *
+
+# Business Intelligence & SQL Analytics
+
+## Technologies
+
+- SQL (PostgreSQL)
+- DataGrip
+- Tableau
+- Power BI
+
+### Skills Demonstrated
+
+- Writing intermediate and advanced SQL (joins, CTEs, window functions) to answer business questions
+- Building dashboards for non-technical decision makers
+- Writing executive summaries (metric rationale, limitations, additional data needed)
+- Preparing and exporting query results for visualization tools
+- Database design with entity relationship diagrams
+
+### What I Learned
+
+In my Business Intelligence Systems course, I analyzed three datasets: JFK airport flights, the Lahman baseball database, and the Chinook music store. For each business question I wrote the SQL, explained why my chosen metric was a good one, named its limitations, and described what extra data would improve it. I then presented the results in Tableau and Power BI dashboards for non-technical audiences.
+
+One finding reminded me why limitations matter. Rainy JFK departures averaged 113 minutes of delay versus 12.6 in clear weather, but only 18 flights occurred in rain, so the result needs careful wording. The same habit applied to the baseball analysis, where OPS is a strong measure of hitting but does not adjust for era.
+
+**Project Evidence**
+
+[View Business Intelligence & SQL Analytics Project](https://github.com/Chinenye-ugwu/it-portfolio/tree/main/bi-sql-analytics)
+
+This folder contains the SQL queries, nine executive summaries, and Tableau and Power BI dashboards for the JFK, baseball, and Chinook datasets, plus the baseball database ERD.
+
+* * *
+
+# Quick Start Guide: AWS VPC Setup
+
+## Technologies
+
+- Amazon Web Services (AWS)
+- Amazon VPC
+- Technical Writing
+- APA Formatting
+
+### Skills Demonstrated
+
+- Writing procedural documentation for a defined audience
+- AWS networking fundamentals (VPC, subnets, internet gateways, route tables, security groups)
+- Designing diagrams and tables that support step-by-step instructions
+- Writing troubleshooting guidance
+
+### What I Learned
+
+I wrote a procedural quick start guide that helps Ensign College IT students build their first secure AWS network in about 15 to 20 minutes. Writing for beginners taught me to give exact settings in the right order, to add a "Check Your Work" list and a troubleshooting table, and to build in good security habits, such as allowing SSH only from the reader's own IP address.
+
+**Project Evidence**
+
+[View Quick Start Guide: AWS VPC Setup](https://github.com/Chinenye-ugwu/it-portfolio/tree/main/quick-start-guide)
+
+This folder contains the full guide as a PDF, with an architecture diagram, a five-step flow diagram, and a summary of what the guide covers.
 
